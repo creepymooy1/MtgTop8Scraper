@@ -1,5 +1,5 @@
 # MtgTop8Scraper
-Python script to scrape EDH decklists form MTGTop8
+Python script to scrape EDH decklists from MTGTop8
 
 Purpose:
 This code is used for scraping decklists from the mtgtop8 website for the competitive Commander format (cEDH). It uses the BeautifulSoup and requests libraries to parse the HTML and download the decklist files.
