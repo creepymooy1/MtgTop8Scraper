@@ -17,4 +17,4 @@ Run the script "scrape_decklists.py" in a Python environment.
 
 The script will generate decklist files with the name "decklist_x.txt" where "x" is a number. The files will be saved in the same directory where the script is located.
 
-The number of pages to scrape will automatically change based on available decklists. It does this by checking all pages until the ".Nav_PN_no" element is found, or the next button is blurred out.
+The number of pages to scrape will automatically change based on available decklists. It does this by checking all pages until the ".Nav_PN_no" element is found (the next button is blurred out).
